@@ -307,7 +307,7 @@ max-width: 1440px;
         gap: 24px;
       margin: 0;
       padding: 0;
-        justify-content: space-between;
+   
     }
     .team-list-item {
         width: calc((100% - 72px) / 4);
@@ -358,6 +358,7 @@ flex-wrap: wrap;
 }
 .portfolio-list-item {
     width: calc((100% - 48px) / 3);
+   
 }
 .portfolio-hh {
     font-weight: 700;
